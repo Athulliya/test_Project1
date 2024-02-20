@@ -52,4 +52,35 @@ def mul(numbers):
 mul(list2)
 
 
+list3=[1,2,3,2,4,3,5]
+def num(numbers):
+    list4=[]
+    for i in numbers:
+        if i  not in list4:
+          list4.append(i)
+    print(list4)
+num(list3)
+
+
+wow="india is my country"
+    
+def vowels(alpha):
+    a=0
+    b=0
+    hai="a","e","i","o","u","A","E","I","O","U"
+    for i in alpha:
+        if i in hai:
+         a=a+1
+        else:
+            b=b+1
+    print(a)
+    print(b)
+vowels(wow)
+            
+
+            
+    
+
+
+
     
