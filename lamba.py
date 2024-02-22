@@ -17,3 +17,7 @@ list=[("apple",15),("orange",10),("grapes",6),("cherry",54)]
 r=sorted(list,key=lambda x:x[1])
 print(r)
     
+    
+    
+    
+    

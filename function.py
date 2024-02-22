@@ -76,7 +76,12 @@ def vowels(alpha):
     print(a)
     print(b)
 vowels(wow)
-            
+
+
+s="I LOve mY COUntry"
+def alpha(up):
+    for i in up:
+        if i in 
 
             
     
